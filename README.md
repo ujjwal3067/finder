@@ -7,3 +7,5 @@
 - [ ]Core logic
 - [ ]Write Fuzzy finder logic from scratch
 - [ ]realtime automplete using fuzzy finder for terminal 
+- [ ]Write unit tests
+- [ ]Write Integration tests
