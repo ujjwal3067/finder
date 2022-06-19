@@ -1,3 +1,9 @@
+#![allow(dead_code)]
+mod core; 
+mod parser; 
+
+
 fn main() {
-    println!("Hello, world!");
+    let arguments = parser::parse_arguments();
+    println!("arguments are : {:?}" , arguments);
 }
